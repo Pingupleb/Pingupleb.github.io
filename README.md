@@ -1,3 +1,9 @@
+#Borrowed
+
+So i kinda just yoinked this code from the creator in the first link bellow.
+I modified the code so that I could create a custom flag with a transparent background for my friends twitch emote.
+If you against all odds are reading this, all credit is due to the original creator.
+
 # FlagWaver
 
 > A web app for simulating a waving flag.
